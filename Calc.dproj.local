@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.02.25 21:26:55.712.pas,C:\Users\Anth\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Anth\Documents\RAD Studio\Projects\Курсовик\Калькулятор\Release1\Unit1.pas</Transaction>
+    <Transaction>2011.02.25 21:26:55.748.dfm,C:\Users\Anth\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Anth\Documents\RAD Studio\Projects\Курсовик\Калькулятор\Release1\Unit1.dfm</Transaction>
+    <Transaction>2011.02.25 21:26:58.167.dproj,C:\Users\Anth\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Anth\Documents\RAD Studio\Projects\Курсовик\Калькулятор\Release1\Project1.dproj</Transaction>
+    <Transaction>2011.02.26 11:40:46.965.pas,C:\Users\Anth\Documents\RAD Studio\Projects\Курсовик\Калькулятор\Release1\Unit1.pas=</Transaction>
+    <Transaction>2011.02.26 11:40:46.965.dfm,C:\Users\Anth\Documents\RAD Studio\Projects\Курсовик\Калькулятор\Release1\Unit1.dfm=</Transaction>
+    <Transaction>2011.03.02 22:56:57.045.dproj,C:\Users\Anth\Documents\RAD Studio\Projects\Курсовик\Калькулятор\Release1\Project1.dproj=C:\Users\Anth\Documents\RAD Studio\Projects\Курсовик\Калькулятор\Release1\Project1.dproj</Transaction>
+    <Transaction>2011.03.02 22:58:19.099.dproj,C:\Users\Anth\Documents\RAD Studio\Projects\Курсовик\Калькулятор\Release1\Project1.dproj=C:\Users\Anth\Documents\RAD Studio\Projects\Курсовик\Калькулятор\Release2\Project1.dproj</Transaction>
+    <Transaction>2011.06.05 21:34:41.759.dproj,J:\Съемный диск (G)\IITUS\Programming\Projects\Калькулятор\Release2\Project1.dproj=C:\Users\Anth\Проекты ИИТУС\Информатика\Курсач\Calc.dproj</Transaction>
+    <Transaction>2011.06.05 21:34:56.670.pas,J:\Съемный диск (G)\IITUS\Programming\Projects\Калькулятор\Release1\Unit1.pas=C:\Users\Anth\Проекты ИИТУС\Информатика\Курсач\Unit1.pas</Transaction>
+    <Transaction>2011.06.05 21:34:56.670.dfm,J:\Съемный диск (G)\IITUS\Programming\Projects\Калькулятор\Release1\Unit1.dfm=C:\Users\Anth\Проекты ИИТУС\Информатика\Курсач\Unit1.dfm</Transaction>
+    <Transaction>2011.06.05 21:35:09.511.dproj,C:\Users\Anth\Проекты ИИТУС\Информатика\Курсач\Calc.dproj=C:\Users\Anth\Проекты ИИТУС\Информатика\Курсач\Calc.dproj</Transaction>
+    <Transaction>2011.06.05 21:35:24.183.dproj,C:\Users\Anth\Проекты ИИТУС\Информатика\Курсач\Calc.dproj=C:\Users\Anth\Проекты ИИТУС\Информатика\Курсач\Calc.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
